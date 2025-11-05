@@ -1,62 +1,76 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
       "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "notes": "The financial capital of India!",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": 19.076,
+        "lng": 72.8777
       },
       "id": "73930385"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
       "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "notes": "Amazing blend of tradition and modernity",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": 35.6762,
+        "lng": 139.6503
       },
       "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
+      "cityName": "Bangkok",
+      "country": "Thailand",
+      "emoji": "🇹🇭",
       "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "notes": "Vibrant street food scene",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": 13.7563,
+        "lng": 100.5018
       },
       "id": "98443197"
     },
     {
-      "id": "c137",
-      "cityName": "Ramtek",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-11-02T13:56:09.073Z",
+      "cityName": "Singapore",
+      "country": "Singapore",
+      "emoji": "🇸🇬",
+      "date": "2027-05-20T14:30:00.000Z",
+      "notes": "Clean and modern city-state",
       "position": {
-        "lat": "21.387868631374886",
-        "lng": "79.32540893554689"
-      }
+        "lat": 1.3521,
+        "lng": 103.8198
+      },
+      "id": "11223344"
     },
     {
-      "id": "56f4",
-      "cityName": "Chanda",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2025-11-02T13:56:29.079Z",
+      "cityName": "Seoul",
+      "country": "South Korea",
+      "emoji": "🇰🇷",
+      "date": "2027-08-10T10:15:30.000Z",
+      "notes": "Tech hub with rich culture",
       "position": {
-        "lat": "19.93720533223859",
-        "lng": "79.31579589843751"
-      }
+        "lat": 37.5665,
+        "lng": 126.978
+      },
+      "id": "55667788"
+    },
+    {
+      "cityName": "Beijing",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2027-03-25T16:45:00.000Z",
+      "notes": "Historic capital city",
+      "position": {
+        "lat": 39.9042,
+        "lng": 116.4074
+      },
+      "id": "99887766"
     }
   ]
 }
